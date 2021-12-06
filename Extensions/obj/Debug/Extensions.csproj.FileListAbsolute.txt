@@ -1,0 +1,6 @@
+C:\Users\Keith\source\repos\TCPServer\Extensions\bin\Debug\Extensions.dll
+C:\Users\Keith\source\repos\TCPServer\Extensions\bin\Debug\Extensions.pdb
+C:\Users\Keith\source\repos\TCPServer\Extensions\obj\Debug\Extensions.csproj.AssemblyReference.cache
+C:\Users\Keith\source\repos\TCPServer\Extensions\obj\Debug\Extensions.csproj.CoreCompileInputs.cache
+C:\Users\Keith\source\repos\TCPServer\Extensions\obj\Debug\Extensions.dll
+C:\Users\Keith\source\repos\TCPServer\Extensions\obj\Debug\Extensions.pdb

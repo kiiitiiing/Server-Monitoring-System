@@ -1,0 +1,250 @@
+﻿Installing assembly 'C:\Users\Keith\source\repos\TCPServer\TCPClientService\bin\Debug\TCPClientService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Keith\source\repos\TCPServer\TCPClientService\bin\Debug\TCPClientService.InstallLog
+   assemblypath = C:\Users\Keith\source\repos\TCPServer\TCPClientService\bin\Debug\TCPClientService.exe
+Installing service TCPClientService...
+Service TCPClientService has been successfully installed.
+Creating EventLog source TCPClientService in log Application...
+Committing assembly 'C:\Users\Keith\source\repos\TCPServer\TCPClientService\bin\Debug\TCPClientService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Keith\source\repos\TCPServer\TCPClientService\bin\Debug\TCPClientService.InstallLog
+   assemblypath = C:\Users\Keith\source\repos\TCPServer\TCPClientService\bin\Debug\TCPClientService.exe
+Installing assembly 'C:\Users\Keith\source\repos\TCPServer\TCPClientService\bin\Debug\TCPClientService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Keith\source\repos\TCPServer\TCPClientService\bin\Debug\TCPClientService.InstallLog
+   assemblypath = C:\Users\Keith\source\repos\TCPServer\TCPClientService\bin\Debug\TCPClientService.exe
+Installing service TCPClientService...
+Creating EventLog source TCPClientService in log Application...
+Rolling back assembly 'C:\Users\Keith\source\repos\TCPServer\TCPClientService\bin\Debug\TCPClientService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Keith\source\repos\TCPServer\TCPClientService\bin\Debug\TCPClientService.InstallLog
+   assemblypath = C:\Users\Keith\source\repos\TCPServer\TCPClientService\bin\Debug\TCPClientService.exe
+Restoring event log to previous state for source TCPClientService.
+Installing assembly 'C:\Users\Keith\source\repos\TCPServer\TCPClientService\bin\Debug\TCPClientService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Keith\source\repos\TCPServer\TCPClientService\bin\Debug\TCPClientService.InstallLog
+   assemblypath = C:\Users\Keith\source\repos\TCPServer\TCPClientService\bin\Debug\TCPClientService.exe
+Installing service TCPClientService...
+Creating EventLog source TCPClientService in log Application...
+Rolling back assembly 'C:\Users\Keith\source\repos\TCPServer\TCPClientService\bin\Debug\TCPClientService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Keith\source\repos\TCPServer\TCPClientService\bin\Debug\TCPClientService.InstallLog
+   assemblypath = C:\Users\Keith\source\repos\TCPServer\TCPClientService\bin\Debug\TCPClientService.exe
+Restoring event log to previous state for source TCPClientService.
+Uninstalling assembly 'C:\Users\Keith\source\repos\TCPServer\TCPClientService\bin\Debug\TCPClientService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Keith\source\repos\TCPServer\TCPClientService\bin\Debug\TCPClientService.InstallLog
+   assemblypath = C:\Users\Keith\source\repos\TCPServer\TCPClientService\bin\Debug\TCPClientService.exe
+Removing EventLog source TCPClientService.
+Service TCPClientService is being removed from the system...
+Service TCPClientService was successfully removed from the system.
+Installing assembly 'C:\Users\Keith\source\repos\TCPServer\TCPClientService\bin\Debug\TCPClientService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Keith\source\repos\TCPServer\TCPClientService\bin\Debug\TCPClientService.InstallLog
+   assemblypath = C:\Users\Keith\source\repos\TCPServer\TCPClientService\bin\Debug\TCPClientService.exe
+Installing service TCPClientService...
+Service TCPClientService has been successfully installed.
+Creating EventLog source TCPClientService in log Application...
+Committing assembly 'C:\Users\Keith\source\repos\TCPServer\TCPClientService\bin\Debug\TCPClientService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Keith\source\repos\TCPServer\TCPClientService\bin\Debug\TCPClientService.InstallLog
+   assemblypath = C:\Users\Keith\source\repos\TCPServer\TCPClientService\bin\Debug\TCPClientService.exe
+Uninstalling assembly 'C:\Users\Keith\source\repos\TCPServer\TCPClientService\bin\Debug\TCPClientService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Keith\source\repos\TCPServer\TCPClientService\bin\Debug\TCPClientService.InstallLog
+   assemblypath = C:\Users\Keith\source\repos\TCPServer\TCPClientService\bin\Debug\TCPClientService.exe
+Removing EventLog source TCPClientService.
+Service TCPClientService is being removed from the system...
+Service TCPClientService was successfully removed from the system.
+Installing assembly 'C:\Users\Keith\source\repos\TCPServer\TCPClientService\bin\Debug\TCPClientService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Keith\source\repos\TCPServer\TCPClientService\bin\Debug\TCPClientService.InstallLog
+   assemblypath = C:\Users\Keith\source\repos\TCPServer\TCPClientService\bin\Debug\TCPClientService.exe
+Installing service TCPClientService...
+Service TCPClientService has been successfully installed.
+Creating EventLog source TCPClientService in log Application...
+Committing assembly 'C:\Users\Keith\source\repos\TCPServer\TCPClientService\bin\Debug\TCPClientService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Keith\source\repos\TCPServer\TCPClientService\bin\Debug\TCPClientService.InstallLog
+   assemblypath = C:\Users\Keith\source\repos\TCPServer\TCPClientService\bin\Debug\TCPClientService.exe
+Uninstalling assembly 'C:\Users\Keith\source\repos\TCPServer\TCPClientService\bin\Debug\TCPClientService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Keith\source\repos\TCPServer\TCPClientService\bin\Debug\TCPClientService.InstallLog
+   assemblypath = C:\Users\Keith\source\repos\TCPServer\TCPClientService\bin\Debug\TCPClientService.exe
+Removing EventLog source TCPClientService.
+Service TCPClientService is being removed from the system...
+Service TCPClientService was successfully removed from the system.
+Installing assembly 'C:\Users\Keith\source\repos\TCPServer\TCPClientService\bin\Debug\TCPClientService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Keith\source\repos\TCPServer\TCPClientService\bin\Debug\TCPClientService.InstallLog
+   assemblypath = C:\Users\Keith\source\repos\TCPServer\TCPClientService\bin\Debug\TCPClientService.exe
+Installing service TCPClientService...
+Service TCPClientService has been successfully installed.
+Creating EventLog source TCPClientService in log Application...
+Committing assembly 'C:\Users\Keith\source\repos\TCPServer\TCPClientService\bin\Debug\TCPClientService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Keith\source\repos\TCPServer\TCPClientService\bin\Debug\TCPClientService.InstallLog
+   assemblypath = C:\Users\Keith\source\repos\TCPServer\TCPClientService\bin\Debug\TCPClientService.exe
+Uninstalling assembly 'C:\Users\Keith\source\repos\TCPServer\TCPClientService\bin\Debug\TCPClientService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Keith\source\repos\TCPServer\TCPClientService\bin\Debug\TCPClientService.InstallLog
+   assemblypath = C:\Users\Keith\source\repos\TCPServer\TCPClientService\bin\Debug\TCPClientService.exe
+Removing EventLog source TCPClientService.
+Service TCPClientService is being removed from the system...
+Service TCPClientService was successfully removed from the system.
+Installing assembly 'C:\Users\Keith\source\repos\TCPServer\TCPClientService\bin\Debug\TCPClientService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Keith\source\repos\TCPServer\TCPClientService\bin\Debug\TCPClientService.InstallLog
+   assemblypath = C:\Users\Keith\source\repos\TCPServer\TCPClientService\bin\Debug\TCPClientService.exe
+Installing service TCPClientService...
+Service TCPClientService has been successfully installed.
+Creating EventLog source TCPClientService in log Application...
+Committing assembly 'C:\Users\Keith\source\repos\TCPServer\TCPClientService\bin\Debug\TCPClientService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Keith\source\repos\TCPServer\TCPClientService\bin\Debug\TCPClientService.InstallLog
+   assemblypath = C:\Users\Keith\source\repos\TCPServer\TCPClientService\bin\Debug\TCPClientService.exe
+Uninstalling assembly 'C:\Users\Keith\source\repos\TCPServer\TCPClientService\bin\Debug\TCPClientService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Keith\source\repos\TCPServer\TCPClientService\bin\Debug\TCPClientService.InstallLog
+   assemblypath = C:\Users\Keith\source\repos\TCPServer\TCPClientService\bin\Debug\TCPClientService.exe
+Removing EventLog source TCPClientService.
+Service TCPClientService is being removed from the system...
+Service TCPClientService was successfully removed from the system.
+Installing assembly 'C:\Users\Keith\source\repos\TCPServer\TCPClientService\bin\Debug\TCPClientService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Keith\source\repos\TCPServer\TCPClientService\bin\Debug\TCPClientService.InstallLog
+   assemblypath = C:\Users\Keith\source\repos\TCPServer\TCPClientService\bin\Debug\TCPClientService.exe
+Installing service TCPClientService...
+Service TCPClientService has been successfully installed.
+Creating EventLog source TCPClientService in log Application...
+Committing assembly 'C:\Users\Keith\source\repos\TCPServer\TCPClientService\bin\Debug\TCPClientService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Keith\source\repos\TCPServer\TCPClientService\bin\Debug\TCPClientService.InstallLog
+   assemblypath = C:\Users\Keith\source\repos\TCPServer\TCPClientService\bin\Debug\TCPClientService.exe
+Installing assembly 'C:\Users\Keith\source\repos\TCPServer\TCPClientService\bin\Debug\TCPClientService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Keith\source\repos\TCPServer\TCPClientService\bin\Debug\TCPClientService.InstallLog
+   assemblypath = C:\Users\Keith\source\repos\TCPServer\TCPClientService\bin\Debug\TCPClientService.exe
+Installing service TCPClientService...
+Creating EventLog source TCPClientService in log Application...
+Rolling back assembly 'C:\Users\Keith\source\repos\TCPServer\TCPClientService\bin\Debug\TCPClientService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Keith\source\repos\TCPServer\TCPClientService\bin\Debug\TCPClientService.InstallLog
+   assemblypath = C:\Users\Keith\source\repos\TCPServer\TCPClientService\bin\Debug\TCPClientService.exe
+Restoring event log to previous state for source TCPClientService.
+Uninstalling assembly 'C:\Users\Keith\source\repos\TCPServer\TCPClientService\bin\Debug\TCPClientService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Keith\source\repos\TCPServer\TCPClientService\bin\Debug\TCPClientService.InstallLog
+   assemblypath = C:\Users\Keith\source\repos\TCPServer\TCPClientService\bin\Debug\TCPClientService.exe
+Removing EventLog source TCPClientService.
+Service TCPClientService is being removed from the system...
+Service TCPClientService was successfully removed from the system.
+Installing assembly 'C:\Users\Keith\source\repos\TCPServer\TCPClientService\bin\Debug\TCPClientService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Keith\source\repos\TCPServer\TCPClientService\bin\Debug\TCPClientService.InstallLog
+   assemblypath = C:\Users\Keith\source\repos\TCPServer\TCPClientService\bin\Debug\TCPClientService.exe
+Installing service TCPClientService...
+Service TCPClientService has been successfully installed.
+Creating EventLog source TCPClientService in log Application...
+Committing assembly 'C:\Users\Keith\source\repos\TCPServer\TCPClientService\bin\Debug\TCPClientService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Keith\source\repos\TCPServer\TCPClientService\bin\Debug\TCPClientService.InstallLog
+   assemblypath = C:\Users\Keith\source\repos\TCPServer\TCPClientService\bin\Debug\TCPClientService.exe
+Uninstalling assembly 'C:\Users\Keith\source\repos\TCPServer\TCPClientService\bin\Debug\TCPClientService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Keith\source\repos\TCPServer\TCPClientService\bin\Debug\TCPClientService.InstallLog
+   assemblypath = C:\Users\Keith\source\repos\TCPServer\TCPClientService\bin\Debug\TCPClientService.exe
+Removing EventLog source TCPClientService.
+Service TCPClientService is being removed from the system...
+Service TCPClientService was successfully removed from the system.
+Installing assembly 'C:\Users\Keith\source\repos\TCPServer\TCPClientService\bin\Debug\TCPClientService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Keith\source\repos\TCPServer\TCPClientService\bin\Debug\TCPClientService.InstallLog
+   assemblypath = C:\Users\Keith\source\repos\TCPServer\TCPClientService\bin\Debug\TCPClientService.exe
+Installing service TCPClientService...
+Service TCPClientService has been successfully installed.
+Creating EventLog source TCPClientService in log Application...
+Committing assembly 'C:\Users\Keith\source\repos\TCPServer\TCPClientService\bin\Debug\TCPClientService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Keith\source\repos\TCPServer\TCPClientService\bin\Debug\TCPClientService.InstallLog
+   assemblypath = C:\Users\Keith\source\repos\TCPServer\TCPClientService\bin\Debug\TCPClientService.exe
+Uninstalling assembly 'C:\Users\Keith\source\repos\TCPServer\TCPClientService\bin\Debug\TCPClientService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Keith\source\repos\TCPServer\TCPClientService\bin\Debug\TCPClientService.InstallLog
+   assemblypath = C:\Users\Keith\source\repos\TCPServer\TCPClientService\bin\Debug\TCPClientService.exe
+Removing EventLog source TCPClientService.
+Service TCPClientService is being removed from the system...
+Service TCPClientService was successfully removed from the system.
+Installing assembly 'C:\Users\Keith\source\repos\TCPServer\TCPClientService\bin\Debug\TCPClientService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Keith\source\repos\TCPServer\TCPClientService\bin\Debug\TCPClientService.InstallLog
+   assemblypath = C:\Users\Keith\source\repos\TCPServer\TCPClientService\bin\Debug\TCPClientService.exe
+Installing service TCPClientService...
+Service TCPClientService has been successfully installed.
+Creating EventLog source TCPClientService in log Application...
+Committing assembly 'C:\Users\Keith\source\repos\TCPServer\TCPClientService\bin\Debug\TCPClientService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Keith\source\repos\TCPServer\TCPClientService\bin\Debug\TCPClientService.InstallLog
+   assemblypath = C:\Users\Keith\source\repos\TCPServer\TCPClientService\bin\Debug\TCPClientService.exe
+Uninstalling assembly 'C:\Users\Keith\source\repos\TCPServer\TCPClientService\bin\Debug\TCPClientService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Keith\source\repos\TCPServer\TCPClientService\bin\Debug\TCPClientService.InstallLog
+   assemblypath = C:\Users\Keith\source\repos\TCPServer\TCPClientService\bin\Debug\TCPClientService.exe
+Removing EventLog source TCPClientService.
+An exception occurred during the uninstallation of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: Requested registry access is not allowed.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Uninstalling assembly 'C:\Users\Keith\source\repos\TCPServer\TCPClientService\bin\Debug\TCPClientService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Keith\source\repos\TCPServer\TCPClientService\bin\Debug\TCPClientService.InstallLog
+   assemblypath = C:\Users\Keith\source\repos\TCPServer\TCPClientService\bin\Debug\TCPClientService.exe
+Removing EventLog source TCPClientService.
+Service TCPClientService is being removed from the system...
+Service TCPClientService was successfully removed from the system.
+Installing assembly 'C:\Users\Keith\source\repos\TCPServer\TCPClientService\bin\Debug\TCPClientService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Keith\source\repos\TCPServer\TCPClientService\bin\Debug\TCPClientService.InstallLog
+   assemblypath = C:\Users\Keith\source\repos\TCPServer\TCPClientService\bin\Debug\TCPClientService.exe
+Installing service TCPClientService...
+Service TCPClientService has been successfully installed.
+Creating EventLog source TCPClientService in log Application...
+Committing assembly 'C:\Users\Keith\source\repos\TCPServer\TCPClientService\bin\Debug\TCPClientService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Keith\source\repos\TCPServer\TCPClientService\bin\Debug\TCPClientService.InstallLog
+   assemblypath = C:\Users\Keith\source\repos\TCPServer\TCPClientService\bin\Debug\TCPClientService.exe

@@ -1,0 +1,13 @@
+C:\Users\Keith\source\repos\TCPServer\TCPClient\bin\Debug\TCPClient.exe.config
+C:\Users\Keith\source\repos\TCPServer\TCPClient\bin\Debug\TCPClient.exe
+C:\Users\Keith\source\repos\TCPServer\TCPClient\bin\Debug\TCPClient.pdb
+C:\Users\Keith\source\repos\TCPServer\TCPClient\bin\Debug\Extensions.dll
+C:\Users\Keith\source\repos\TCPServer\TCPClient\bin\Debug\Extensions.pdb
+C:\Users\Keith\source\repos\TCPServer\TCPClient\obj\Debug\TCPClient.csproj.AssemblyReference.cache
+C:\Users\Keith\source\repos\TCPServer\TCPClient\obj\Debug\TCPClient.Properties.Resources.resources
+C:\Users\Keith\source\repos\TCPServer\TCPClient\obj\Debug\TCPClient.csproj.GenerateResource.cache
+C:\Users\Keith\source\repos\TCPServer\TCPClient\obj\Debug\TCPClient.csproj.CoreCompileInputs.cache
+C:\Users\Keith\source\repos\TCPServer\TCPClient\obj\Debug\TCPClient.csproj.CopyComplete
+C:\Users\Keith\source\repos\TCPServer\TCPClient\obj\Debug\TCPClient.exe
+C:\Users\Keith\source\repos\TCPServer\TCPClient\obj\Debug\TCPClient.pdb
+C:\Users\Keith\source\repos\TCPServer\TCPClient\obj\Debug\TCPClient.Client.resources

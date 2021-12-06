@@ -1,0 +1,14 @@
+C:\Users\Keith\source\repos\TCPServer\TCPServer\bin\Debug\TCPServer.exe.config
+C:\Users\Keith\source\repos\TCPServer\TCPServer\bin\Debug\TCPServer.exe
+C:\Users\Keith\source\repos\TCPServer\TCPServer\bin\Debug\TCPServer.pdb
+C:\Users\Keith\source\repos\TCPServer\TCPServer\obj\Debug\TCPServer.csproj.AssemblyReference.cache
+C:\Users\Keith\source\repos\TCPServer\TCPServer\obj\Debug\TCPServer.Properties.Resources.resources
+C:\Users\Keith\source\repos\TCPServer\TCPServer\obj\Debug\TCPServer.csproj.GenerateResource.cache
+C:\Users\Keith\source\repos\TCPServer\TCPServer\obj\Debug\TCPServer.csproj.CoreCompileInputs.cache
+C:\Users\Keith\source\repos\TCPServer\TCPServer\obj\Debug\TCPServer.exe
+C:\Users\Keith\source\repos\TCPServer\TCPServer\obj\Debug\TCPServer.pdb
+C:\Users\Keith\source\repos\TCPServer\TCPServer\bin\Debug\Extensions.dll
+C:\Users\Keith\source\repos\TCPServer\TCPServer\bin\Debug\Extensions.pdb
+C:\Users\Keith\source\repos\TCPServer\TCPServer\obj\Debug\TCPServer.csproj.CopyComplete
+C:\Users\Keith\source\repos\TCPServer\TCPServer\obj\Debug\TCPServer.Server.resources
+C:\Users\Keith\source\repos\TCPServer\TCPServer\obj\Debug\TCPServer.IPSettings.resources
