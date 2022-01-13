@@ -4,3 +4,9 @@ C:\Users\Keith\source\repos\TCPServer\Extensions\obj\Debug\Extensions.csproj.Ass
 C:\Users\Keith\source\repos\TCPServer\Extensions\obj\Debug\Extensions.csproj.CoreCompileInputs.cache
 C:\Users\Keith\source\repos\TCPServer\Extensions\obj\Debug\Extensions.dll
 C:\Users\Keith\source\repos\TCPServer\Extensions\obj\Debug\Extensions.pdb
+C:\Users\keith\Source\Repos\Server-Monitoring-System\Extensions\bin\Debug\Extensions.dll
+C:\Users\keith\Source\Repos\Server-Monitoring-System\Extensions\bin\Debug\Extensions.pdb
+C:\Users\keith\Source\Repos\Server-Monitoring-System\Extensions\obj\Debug\Extensions.csproj.AssemblyReference.cache
+C:\Users\keith\Source\Repos\Server-Monitoring-System\Extensions\obj\Debug\Extensions.csproj.CoreCompileInputs.cache
+C:\Users\keith\Source\Repos\Server-Monitoring-System\Extensions\obj\Debug\Extensions.dll
+C:\Users\keith\Source\Repos\Server-Monitoring-System\Extensions\obj\Debug\Extensions.pdb
